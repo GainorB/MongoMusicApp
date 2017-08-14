@@ -1,12 +1,18 @@
-# UpStarMusic
-Starter Repo for a MongoDB course on Udemy
+# MongoMusicApp
 
-You can download this repository by using the green `Clone or Download` button on the right hand side of this page.  This will present you with the option to either clone the repository using Git, or to download it as a zip file.
+### TECH STACK
+1. Electron
 
-If you want to download it using git, copy paste the link that is presented to you, then run the following at your terminal:
+### MISC TECH
+1. mongodb
+2. mongoose
 
-```
-git clone https://github.com/StephenGrider/UpStarMusic.git
-cd UpStarMusic
-npm install
-```
+### WHAT I LEARNED
+1. More practice making queries
+
+### NEED TO REVIEW
+1. Queries
+
+### CODE SAMPLE
+
+Source: UDEMY course taught by Stephen Grider (https://github.com/StephenGrider/)
